@@ -1,0 +1,51 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    background-image: linear-gradient(180deg, #C4B6FD, #93ACFC);
+}
+
+.navbar-brand,
+.text-primary {
+    color: #0A58CA;
+}
+
+.nav-link {
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: #0A58CA;
+}
+
+.btn-primary {
+    background-color: #0A58CA;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #257DFD;
+}
+
+p {
+    font-size: 18px;
+}
+
+.blue-bg {
+    background-color: #0A58CA;
+    color: #FFFFFF;
+}
+
+.text-primary {
+    color: #257DFD;
+}
+
+.icons {
+    height: 32px;
+    width: 32px;
+    margin-bottom: 16px;
+    color: #0A58CA;
+    background-color: #F2F2F2;
+    padding: 6px;
+}
